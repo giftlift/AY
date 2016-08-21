@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Yevgeniy Brikman</title>
+    <description>The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of Hello, Startup, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial.</description>    
+    <link>http://www.ybrikman.com</link>
+    <atom:link href="http://www.ybrikman.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Gruntwork Infrastructure Packages: world-class infrastructure, all of the control, none of the work</title>
+                
+        
+          <description>&lt;p&gt;An &lt;em&gt;Infrastructure Package&lt;/em&gt; is a reusable, battle-tested, documented, configurable, best-practices definition of a
+piece of infrastructure. We think it’s a better way to build and manage infrastructure. And today, we’re unveiling the
+full list of Gruntwork Infrastructure Packages and releasing the documentation as open source so previous customers can
+find info from a Google search and future customers can explore our packages directly:
+&lt;a href=&quot;https://blog.gruntwork.io/gruntwork-infrastructure-packages-7434dc77d0b1&quot;&gt;Gruntwork Infrastructure Packages: world-class infrastructure, all of the control, none of the work&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 26 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/07/26/gruntwork-infrastructure-packages/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/07/26/gruntwork-infrastructure-packages/</guid>
+      </item>
+    
+      <item>
+        <title>From Italy to Ireland</title>
+                
+        
+          <description>&lt;p&gt;Last year was a bit crazy. I published a &lt;a href=&quot;http://www.hello-startup.net/&quot;&gt;book&lt;/a&gt;; I started a
+&lt;a href=&quot;http://www.gruntwork.io/&quot;&gt;company&lt;/a&gt;; Molly and I sold everything we owned and did a cross-country road trip,
+with stops at the &lt;a href=&quot;https://goo.gl/photos/bwvNiSDERrmiaBdr5&quot;&gt;Bonneville Salt Flats&lt;/a&gt;, &lt;a href=&quot;https://goo.gl/photos/UB476Xvp8NwjtM1W7&quot;&gt;Grand
+Teton&lt;/a&gt;, &lt;a href=&quot;https://goo.gl/photos/xvN75XBhqgeznCS39&quot;&gt;Yellowstone&lt;/a&gt;, &lt;a href=&quot;https://goo.gl/photos/Hy8Bf62NNaK2psV39&quot;&gt;Devil’s
+Tower&lt;/a&gt;, the &lt;a href=&quot;https://goo.gl/photos/G3LW6fq21oxynk6QA&quot;&gt;Badlands&lt;/a&gt;, and
+&lt;a href=&quot;https://goo.gl/photos/ZfEkY7TkhM6DdKoJ9&quot;&gt;Chicago&lt;/a&gt;; and then we moved to
+&lt;a href=&quot;http://www.ybrikman.com/writing/2015/07/08/from-california-to-italy/&quot;&gt;Italy&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 08 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/07/08/from-italy-to-ireland/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/07/08/from-italy-to-ireland/</guid>
+      </item>
+    
+      <item>
+        <title>Why the Best Companies and Developers Give Away Almost Everything They Do</title>
+                
+        
+          <description>&lt;p&gt;Why do so many software companies and developers give away so much of their work in the form of open source, writing,
+and speaking? Why would they invest thousands of hours and millions of dollars into a project and then release it for
+free to everyone, even their competitors?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 26 May 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/05/26/why-the-best-give-away-almost-everything/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/05/26/why-the-best-give-away-almost-everything/</guid>
+      </item>
+    
+      <item>
+        <title>Introducing Gruntwork: get up and running on AWS with DevOps best practices and world-class infrastructure in about 2 weeks</title>
+                
+        
+          <description>&lt;p&gt;Building infrastructure for a software company is much harder than it should be. There are so many moving parts and so
+many concepts to learn. How do I build my code? How do I deploy it? Should I use Docker? How do I deploy a Docker
+container? Where should I store database passwords? How do I manage SSH keys? What do I do when a server goes down?
+How can I be sure I don’t lose data? How do I even know that a server is down? It seems like there is never enough time
+to get all of these right and many companies end up scraping their infrastructure together using duct tape and glue.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Apr 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks/</guid>
+      </item>
+    
+      <item>
+        <title>Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS</title>
+                
+        
+          <description>&lt;p&gt;Docker and Amazon ECS are a powerful combination. In previous posts, I showed &lt;a href=&quot;http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/&quot;&gt;how to use Docker to package your
+code&lt;/a&gt; and how to manually &lt;a href=&quot;http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/&quot;&gt;deploy Docker containers on
+Amazon ECS&lt;/a&gt;. In this post, I’m sharing the
+&lt;a href=&quot;https://vimeo.com/167706949&quot;&gt;video&lt;/a&gt;,
+&lt;a href=&quot;http://www.slideshare.net/brikis98/infrastructure-as-code-running-microservices-on-aws-using-docker-terraform-and-ecs&quot;&gt;slides&lt;/a&gt;
+from my &lt;a href=&quot;http://www.incontrodevops.it/&quot;&gt;DevOps Italia 2016&lt;/a&gt; talk, where I show how to automate the deployment by
+defining your infrastructure-as-code using Docker and the new kid on the block, &lt;a href=&quot;https://www.terraform.io/&quot;&gt;Terraform&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 31 Mar 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/</guid>
+      </item>
+    
+      <item>
+        <title>Agility Requires Safety</title>
+                
+        
+          <description>&lt;p&gt;My second post on Y Combinator’s Macro Blog that discusses the safety mechanisms that make power agile software
+companies: &lt;a href=&quot;http://themacro.com/articles/2016/03/agility-requires-safety/&quot;&gt;Agility Requires Safety&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 30 Mar 2016 00:00:00 -0700</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/03/30/agility-requires-safety/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/03/30/agility-requires-safety/</guid>
+      </item>
+    
+      <item>
+        <title>Splitting Up a Codebase into Microservices and Artifacts</title>
+                
+        
+          <description>&lt;p&gt;I did a Q&amp;amp;A on the LinkedIn Engineering Blog on techniques for splitting up a codebase:
+&lt;a href=&quot;https://engineering.linkedin.com/blog/2016/02/q-a-with-jim-brikman--splitting-up-a-codebase-into-microservices&quot;&gt;Splitting Up a Codebase into Microservices and Artifacts&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 24 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/02/24/splitting-up-a-codebase/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/02/24/splitting-up-a-codebase/</guid>
+      </item>
+    
+      <item>
+        <title>Startup Ideas and Validation</title>
+                
+        
+          <description>&lt;p&gt;Every startup begins with an idea. This is a talk I did as part of
+&lt;a href=&quot;https://www.nerdwallet.com/blog/corporate-news/nerdwallets-speaker-series-nerdtalks/&quot;&gt;NerdWallet’s NerdTalks Series&lt;/a&gt;
+that discusses how to come up with startup ideas and validation techniques you
+can use to pick the ideas worth working on.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/02/14/startup-ideas-and-validation/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/02/14/startup-ideas-and-validation/</guid>
+      </item>
+    
+      <item>
+        <title>Agility Requires Safety</title>
+                
+        
+          <description>&lt;p&gt;To go faster in a car, you need not only a powerful engine, but also safety
+mechanisms like brakes, air bags, and seat belts. This is a talk I did as part of
+&lt;a href=&quot;https://www.nerdwallet.com/blog/corporate-news/nerdwallets-speaker-series-nerdtalks/&quot;&gt;NerdWallet’s NerdTalks Series&lt;/a&gt;
+where I discuss the safety mechanisms that allow you to build software faster.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/</guid>
+      </item>
+    
+      <item>
+        <title>A Minimum Viable Product Is Not a Product, It&#39;s a Process</title>
+                
+        
+          <description>&lt;p&gt;My blog post on The Macro, Y Combinator’s blog, about one of the most common
+reasons for startup failure: &lt;a href=&quot;http://themacro.com/articles/2016/01/minimum-viable-product-process/&quot;&gt;A Minimum Viable Product Is Not a Product, It’s a Process&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 22 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://www.ybrikman.com/writing/2016/01/22/mvp-is-not-product-its-a-process/</link>
+        <guid isPermaLink="true">http://www.ybrikman.com/writing/2016/01/22/mvp-is-not-product-its-a-process/</guid>
+      </item>
+    
+  </channel>
+</rss>
