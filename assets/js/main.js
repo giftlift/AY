@@ -33,9 +33,10 @@ $('.nav-toggle').on('touchstart.dropdown.data-api', (e) ->
   responsiveNav('.nav-collapse');
 })();
 
+/*
 $('[data-toggle=dropdown]').each(function() {
  this.addEventListener('click', function() {}, false);
 });    
-
+*/
 
 
