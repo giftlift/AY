@@ -26,6 +26,10 @@ if(e&&1===a.nodeType)while(c=e[d++])a.removeAttribute(c)}}),hb={set:function(a,b
 
 $('.nav-toggle').on('touchstart.dropdown.data-api', (e) ->
     e.stopPropagation() )    */
+    
+$('[data-toggle=dropdown]').each(function() {
+ this.addEventListener('click', function() {}, false);
+});    
 
 (function() {
   "use strict";
