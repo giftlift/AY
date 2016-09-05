@@ -220,13 +220,9 @@
 </script>
 
 <script>
-jQuery.fn.redraw = function() {
-    this.css('display', 'none'); 
-    var temp = this[0].offsetHeight;
-    this.css('display', '');
-};
-
-$('.layer-to-repaint').redraw();
+$(window).resize(function() {
+  $('.slide.force').toggleClass('force-redraw');
+});
 </script>
 
 </body>
