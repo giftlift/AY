@@ -8,6 +8,25 @@
  
 position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
  
+.little-calendar {
+	width: 280px;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+@media (min-width: 768px) {
+	.little-calendar {
+		display: none !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.big-calendar {
+		display: none !important;
+	}
+}
+ 
+/*! 
 }
  
 .responsiveCal iframe {
@@ -16,4 +35,4 @@ position: absolute; top:0; left: 0; width: 100%; height: 100%;
  
 }
 
-.force-redraw::before { content: "" }
+.force-redraw::before { content: "" } */
