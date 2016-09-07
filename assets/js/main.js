@@ -180,13 +180,13 @@ if(e&&1===a.nodeType)while(c=e[d++])a.removeAttribute(c)}}),hb={set:function(a,b
 /* My code 
 $('.nav-toggle').on('touchstart.dropdown.data-api', (e) ->
     e.stopPropagation() )    */
-    
+ /*   
 (function() {
   "use strict";
 
   responsiveNav('.nav-collapse');
 })();
-
+*/
 /*
 $('[data-toggle=dropdown]').each(function() {
  this.addEventListener('click', function() {}, false);
