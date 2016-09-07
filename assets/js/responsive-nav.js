@@ -661,3 +661,10 @@
   }
 
 }(document, window, 0));
+
+/* mycode */
+(function() {
+  "use strict";
+
+  responsiveNav('.nav-collapse');
+})();
