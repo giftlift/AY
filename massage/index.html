@@ -101,7 +101,26 @@
       Leave fealing renewed and invigorated. 
       <br>
       <strong>Don't forget to drink water before and after.</strong>
+  <div 
+   id="example1div" 
+   style="border-style:solid; 
+          padding:10px; 
+          text-align:center;">
+   I will be replaced when you click.
+   </div>
+   <a href="javascript:ReplaceContentInContainer('example1div','Whew! You clicked!')">
+   Click me to replace the content in the container.
+   </a>
+
+    
   
+  <script type="text/javascript"><!--
+  function ReplaceContentInContainer(id,content) {
+  var container = document.getElementById(id);
+  container.innerHTML = content;
+  }
+  //--></script>
+
 
   </center>
   
