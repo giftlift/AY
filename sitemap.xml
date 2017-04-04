@@ -4,30 +4,25 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>http://aystudio.org/</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
+  <lastmod>2017-03-26T20:30:13+00:00</lastmod>
 </url>
 <url>
-  <loc>http://aystudio.org/calendar/index.html</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
+  <loc>http://aystudio.org/calendar/</loc>
+  <lastmod>2017-03-26T20:30:13+00:00</lastmod>
 </url>
 <url>
-  <loc>http://aystudio.org/newsletter/index.html</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
+  <loc>http://aystudio.org/newsletter/</loc>
+  <lastmod>2017-03-26T20:30:13+00:00</lastmod>
 </url>
 <url>
-  <loc>http://aystudio.org/teachers/index.html</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
+  <loc>http://aystudio.org/teachers/</loc>
+  <lastmod>2017-03-26T20:30:13+00:00</lastmod>
 </url>
 <url>
-  <loc>http://aystudio.org/massage/index.html</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
-</url>
-<url>
-  <loc>http://aystudio.org/index.html</loc>
-  <lastmod>2016-09-17T15:22:13+00:00</lastmod>
+  <loc>http://aystudio.org/massage/</loc>
+  <lastmod>2017-03-26T20:30:13+00:00</lastmod>
 </url>
 </urlset>
